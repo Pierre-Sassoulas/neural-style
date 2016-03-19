@@ -2,6 +2,15 @@
 
 This guide will walk you through the setup for `neural-style` on Ubuntu.
 
+## Step 0: Install git and curl
+
+You need to have git and curl for commands in this guide to work.
+
+```
+# in a terminal, run the commands
+sudo apt-get install git curl
+```
+
 ## Step 1: Install torch7
 
 First we need to install torch, following the installation instructions
